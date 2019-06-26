@@ -4,4 +4,4 @@ Doing LeetCode Top 100 for practice but also logging it so that others can see i
 
 Hopefully this is of some help looking back.
 
-Howard Luo
+Howard
